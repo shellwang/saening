@@ -1,25 +1,10 @@
 /*----------------------------------------------------
-<<<<<<< HEAD
-=======
-@File: Default Styles
-@Author: Rocky
-@URL: http://wethemez.com
-Author E-mail: rockybd1995@gmail.com
->>>>>>> 0ab75a0ae2ad4323e2f24c0551a1e5ed6f7832e4
 
 This file contains the styling for the actual theme, this
 is the file you need to edit to change the look of the
 theme.
 ---------------------------------------------------- */
 /*=====================================================================
-<<<<<<< HEAD
-=======
-@Template Name: Cerative Agency
-@Author: Rocky
-@Developed By: Rocky
-@Developer URL: http://rocky.wethemez.com
-Author E-mail: rockybd1995@gmail.com
->>>>>>> 0ab75a0ae2ad4323e2f24c0551a1e5ed6f7832e4
 
 @Default Styles
 
@@ -128,11 +113,7 @@ i:before {
 /* Main title css
 ============================================================================================ */
 .main_title h2 {
-<<<<<<< HEAD
   font-size: 30px;
-=======
-  font-size: 40px;
->>>>>>> 0ab75a0ae2ad4323e2f24c0551a1e5ed6f7832e4
   line-height: 48px;
   font-family: "Poppins", sans-serif;
   color: #232d37;
@@ -154,11 +135,7 @@ i:before {
 }
 
 .center_title h2 {
-<<<<<<< HEAD
   font-size: 30px;
-=======
-  font-size: 40px;
->>>>>>> 0ab75a0ae2ad4323e2f24c0551a1e5ed6f7832e4
   font-family: "Poppins", sans-serif;
   font-weight: 500;
 }
@@ -177,11 +154,7 @@ i:before {
 }
 
 .b_center_title h2 {
-<<<<<<< HEAD
   font-size: 30px;
-=======
-  font-size: 40px;
->>>>>>> 0ab75a0ae2ad4323e2f24c0551a1e5ed6f7832e4
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   color: #232d37;
@@ -1035,11 +1008,7 @@ i:before {
 
 .service_area:before {
   content: "";
-<<<<<<< HEAD
   background: rgba(4, 8, 29, 0.3);
-=======
-  background: rgba(4, 8, 29, 0.7);
->>>>>>> 0ab75a0ae2ad4323e2f24c0551a1e5ed6f7832e4
   position: absolute;
   left: 0px;
   top: 0px;
@@ -1054,15 +1023,9 @@ i:before {
 }
 
 .service_item i {
-<<<<<<< HEAD
   background-image: -moz-linear-gradient(180deg, #005f99 0%, #005f99 100%);
   background-image: -webkit-linear-gradient(180deg, #005f99 0%, #005f99 100%);
   background-image: -ms-linear-gradient(180deg, #005f99 0%, #005f99 100%);
-=======
-  background-image: -moz-linear-gradient(180deg, #20d497 0%, #744fff 100%);
-  background-image: -webkit-linear-gradient(180deg, #20d497 0%, #744fff 100%);
-  background-image: -ms-linear-gradient(180deg, #20d497 0%, #744fff 100%);
->>>>>>> 0ab75a0ae2ad4323e2f24c0551a1e5ed6f7832e4
   color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
@@ -1087,65 +1050,9 @@ i:before {
 /* End Our Service Area css
 ============================================================================================ */
 /*---------------------------------------------------- */
-<<<<<<< HEAD
 
 /* Our Practices Area css
 ============================================================================================ */
-.practices_area {
-  background: #fff;
-  background-size: cover;
-  position: relative;
-  z-index: 2;
-  padding: 75px 0px;
-}
-
-.practices_area:before {
-  content: "";
-  background: #fff;
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  z-index: -1;
-  width: 100%;
-  height: 100%;
-}
-
-.practices_item {
-  text-align: left;
-  color: #000;
-}
-
-.practices_item i {
-  background-image: -moz-linear-gradient(180deg, #005f99 0%, #005f99 100%);
-  background-image: -webkit-linear-gradient(180deg, #005f99 0%, #005f99 100%);
-  background-image: -ms-linear-gradient(180deg, #005f99 0%, #005f99 100%);
-  color: transparent;
-  -webkit-background-clip: text;
-  background-clip: text;
-  font-size: 40px;
-}
-
-.practices_item h4 {
-  font-size: 20px;
-  font-family: "Poppins", sans-serif;
-  font-weight: 500;
-  padding: 18px 0px 12px 0px;
-}
-
-.practices_item p {
-  font-size: 14px;
-  line-height: 26px;
-  font-family: "Poppins", sans-serif;
-  max-width: 360px;
-  margin: auto;
-}
-
-/* End Our Practices Area css
-============================================================================================ */
-/*---------------------------------------------------- */
-
-=======
->>>>>>> 0ab75a0ae2ad4323e2f24c0551a1e5ed6f7832e4
 /*----------------------------------------------------*/
 /* Testimonials Area css
 ============================================================================================ */
@@ -1577,11 +1484,7 @@ i:before {
 
 .people_lawyer_item .people_lawyer_content h4 {
   font-size: 18px;
-<<<<<<< HEAD
   color: #005f99;
-=======
-  color: #232d37;
->>>>>>> 0ab75a0ae2ad4323e2f24c0551a1e5ed6f7832e4
   font-family: "Poppins", sans-serif;
   font-weight: 500;
   -webkit-transition: all 400ms linear 0s;
